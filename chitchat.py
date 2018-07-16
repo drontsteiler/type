@@ -1,3 +1,4 @@
+# coding: utf8
 def chat(uinput):
     ans = ""
     if uinput=="Давай поболтаем":

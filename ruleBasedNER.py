@@ -1,3 +1,4 @@
+# coding: utf8
 import spacy 
 from pathlib import Path
 from spacy.matcher import Matcher 

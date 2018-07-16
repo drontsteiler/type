@@ -1,3 +1,4 @@
+# coding: utf8
 import spacy
 import config
 import telebot
