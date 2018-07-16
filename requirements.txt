@@ -1,7 +1,6 @@
 pyTelegramBotAPI
 spacy
 pymorphy2
-__future__
 pathlib
 lemma
 ruleBasedNER
