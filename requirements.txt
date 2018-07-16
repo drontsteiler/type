@@ -2,6 +2,3 @@ pyTelegramBotAPI
 spacy
 pymorphy2
 pathlib
-lemma
-ruleBasedNER
-chitchat
